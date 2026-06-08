@@ -5,9 +5,11 @@
 🌱 I’m currently learning: The fundamentals of programming and exploring different tech stacks.<br>
 💬 Ask me about: My love for coding and interest in AI-assisted coding.<br>
 ⚡ Fun fact: I enjoy turning complex logic into clean, visual experiences.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not.amandeep) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandeep.intl@gmail.com) 
+
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -16,14 +18,16 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://my-github-readme-stats.vercel.app/api?username=amandeepintl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Amandeep's GitHub stats" />
+  <img src="https://my-github-readme-stats-seven-azure.vercel.app/api?username=amandeepintl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Amandeep's GitHub stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeepintl&theme=dark&hide_border=false" alt="Amandeep's GitHub Streak" />
   <br/><br/>
-  <img src="https://my-github-readme-stats.vercel.app/api/top-langs/?username=amandeepintl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Amandeep's Top Languages" />
+  <img src="https://my-github-readme-stats-seven-azure.vercel.app/api/top-langs/?username=amandeepintl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Amandeep's Top Languages" />
 </p>
+
 <!-- 
 Note: The "Top Contributed Repo" generator is currently broken by the author. I've hidden it for now so your profile looks clean!
 ---
