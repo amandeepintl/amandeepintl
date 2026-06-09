@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building and refining my first set of logic-based applications.<br>
+🔭 I’m currently working on: Building and refining my first set of logic-based applications.<br>.
 👯 I’m looking to collaborate on: Open-source projects that challenge my problem-solving skills.<br>
 🤝 I’m looking for help with: Learning best practices for clean code and efficient algorithms.<br>
 🌱 I’m currently learning: The fundamentals of programming and exploring different tech stacks.<br>
