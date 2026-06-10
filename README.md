@@ -1,38 +1,55 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building and refining my first set of logic-based applications.<br>
-👯 I’m looking to collaborate on: Open-source projects that challenge my problem-solving skills.<br>
-🤝 I’m looking for help with: Learning best practices for clean code and efficient algorithms.<br>
-🌱 I’m currently learning: The fundamentals of programming and exploring different tech stacks.<br>
-💬 Ask me about: My love for coding and interest in AI-assisted coding.<br>
-⚡ Fun fact: I enjoy turning complex logic into clean, visual experiences.
+<div align="center">
+  <p align="center">
+    <b>🏆 SCHOLARSHIP PORTFOLIO • 2025</b>
+  </p>
+  <h1>Aman Deep</h1>
+  <p><i>Self-taught developer passionate about logic-based problem solving, clean code, and AI-assisted technology. Building from fundamentals up.</i></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not.amandeep) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandeep.intl@gmail.com) 
+  <p align="center">
+    <code>Open Source Contributor</code> &nbsp;•&nbsp;
+    <code>Self-Directed Learner</code> &nbsp;•&nbsp;
+    <code>Full-Stack Foundations</code> &nbsp;•&nbsp;
+    <code>AI Enthusiast</code>
+  </p>
+  <br>
+</div>
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+### 📊 Verified GitHub Activity
 
-## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://my-github-readme-stats-seven-azure.vercel.app/api?username=amandeepintl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Amandeep's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeepintl&theme=dark&hide_border=false" alt="Amandeep's GitHub Streak" />
-  <br/><br/>
-  <img src="https://my-github-readme-stats-seven-azure.vercel.app/api/top-langs/?username=amandeepintl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Amandeep's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amandeepintl&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=101112&text_color=495057&icon_color=f59f00" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepintl&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=101112&text_color=495057" height="150" alt="Top Languages" />
 </p>
 
-<!-- 
-Note: The "Top Contributed Repo" generator is currently broken by the author. I've hidden it for now so your profile looks clean!
 ---
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amandeepintl&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
--->
+
+### 🎯 Goals & Direction
+
+| Focus Area | Description |
+| :--- | :--- |
+| 🛠️ **Currently building** | A set of logic-based applications — learning to design programs that solve real problems with clean, maintainable code. |
+| 🤝 **Looking to collaborate** | Open-source projects that sharpen problem-solving — I believe the best learning happens through building with others. |
+| 📚 **Actively studying** | Programming fundamentals, algorithm efficiency, and exploring different tech stacks to build a broad engineering foundation. |
+
+---
+
+### 💡 What I Bring
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Logical problem solving</h4>
+      <p>I enjoy breaking down complex challenges into clear, structured solutions — turning abstract ideas into working visual experiences.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Self-motivated growth</h4>
+      <p>Building independently without formal coursework — driven by curiosity about AI-assisted coding and modern development.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <a href="https://instagram.com/not.amandeep"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:amandeep.intl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
