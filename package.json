@@ -1,0 +1,27 @@
+{
+  "name": "amandeepintl_profile",
+  "version": "1.0.0",
+  "description": "🔭 I’m currently working on: Building and refining my first set of logic-based applications.<br>\r 👯 I’m looking to collaborate on: Open-source projects that challenge my problem-solving skills.<br>\r 🤝 I’m looking for help with: Learning best practices for clean code and efficient algorithms.<br>\r 🌱 I’m currently learning: The fundamentals of programming and exploring different tech stacks.<br>\r 💬 Ask me about: My love for coding and interest in AI-assisted coding.<br>\r ⚡ Fun fact: I enjoy turning complex logic into clean, visual experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeepintl/amandeepintl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amandeepintl/amandeepintl/issues"
+  },
+  "homepage": "https://github.com/amandeepintl/amandeepintl#readme",
+  "dependencies": {
+    "@types/react": "^19.2.17",
+    "react": "^19.2.7",
+    "satori": "^0.26.0",
+    "tsx": "^4.22.4"
+  }
+}
