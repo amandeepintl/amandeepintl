@@ -1,7 +1,4 @@
-<div align="center">
-  <p align="center">
-    <b>🏆 SCHOLARSHIP PORTFOLIO • 2025</b>
-  </p>
+
   <h1>Aman Deep</h1>
   <p><i>Self-taught developer passionate about logic-based problem solving, clean code, and AI-assisted technology. Building from fundamentals up.</i></p>
 
